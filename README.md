@@ -1,2 +1,2 @@
-# Continental12
+# Continental
 Desktop Application in C# .Net Framework
